@@ -1,7 +1,9 @@
 #include <stdio.h>
+
 /**
  * main - Eslam elsayed hamed mohamed 
- * Return: 0 (Success)
+ * Return: Always 0. 
+ *
  */
 
 int main(void)
